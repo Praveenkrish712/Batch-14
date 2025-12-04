@@ -18,3 +18,13 @@ HTML - Hyper Text markup Language
 6) Anchor tag (Linking Purpose) - a
 
 7) image tag - img
+
+8) list - Order list and unorder list
+
+9) tables - tr, th and td
+
+10) Forms - input, label, placeholder, required
+
+11) Media Elements - Audio and Video
+
+12) Sematic Tags - header, footer, nav and section
