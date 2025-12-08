@@ -28,3 +28,32 @@ HTML - Hyper Text markup Language
 11) Media Elements - Audio and Video
 
 12) Sematic Tags - header, footer, nav and section
+
+
+CSS - Cascading Style Sheet
+
+1) Types of CSS
+i - Inline CSS -
+ii - Internal CSS
+iii - External CSS
+Inline > internal > External
+
+2)CSS Syntax
+Selector{
+    property:value;
+}
+
+3) Types of Selector
+i - Elements Selector - (h1), (h3), (p)
+ii - Class Selector - (.) - Multiple times we can use the same class name
+iii - Id Selector - (#) - Unique, Only one time we can Use the same Id name
+iv - Universal Selector - (*) - To apply the style in whole site
+v - Group Selector - class or id Selector contain different tags wants to the same Style
+
+4) Colors and background
+    color: green;
+    background-color: black;
+    background-image: url(./Assets/Batman.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
