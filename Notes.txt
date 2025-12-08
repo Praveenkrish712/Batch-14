@@ -57,3 +57,19 @@ v - Group Selector - class or id Selector contain different tags wants to the sa
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+
+5) Text Styling  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-weight: 700;
+    line-height: .2;
+    letter-spacing: 1px;  
+
+6) Box Modeling
+   margin
+   border
+   padding
+   content
