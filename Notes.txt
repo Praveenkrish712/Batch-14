@@ -92,3 +92,23 @@ v - Group Selector - class or id Selector contain different tags wants to the sa
    5. Sticky
 
 9) Grid - Display (2-dimensional layout System)
+
+10) Transion and Animation
+Transion =>
+    transition-duration: 5s;
+    transition-property: all;
+    transition-timing-function: linear;
+    transition-delay: 3s;
+transform - Rotate, scale, Translate
+
+Animation => USing Keyframes and call the name
+    animation-name: circle;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+
+11) Media Queries or Responsive Design
+
+   mobile - 320px to 600px
+   tablets - 601px to 800px
+   lap/desktop - above 801px
